@@ -1,8 +1,7 @@
 """
 Programing Language: Python3
-Project #1 - Question 8,
-Problem: Orbit of Eris.
-Group Members: 
+Title: Orbit of Eris.
+collaborator: 
 Steve Wufeng, Tim Bishop, Lucas Romero, Aniket Sonika, Kyle Mullen
 """
 import math as m        # importing math module for better calculation
